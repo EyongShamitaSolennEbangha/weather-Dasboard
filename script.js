@@ -80,3 +80,10 @@ function geocodeAddress(geocoder, map, address) {
 }
 
 window.onload = initMap;
+
+
+let light = document.getElementsByClassName('meet').addEventListener('click', clickme())
+
+function clickme(){
+  if
+}
